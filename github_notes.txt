@@ -1,0 +1,9 @@
+GitHub Notes: 
+
+cd.. -> up a directory
+cd -> change directory
+
+dir -> list current directory
+
+
+

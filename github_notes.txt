@@ -1,9 +1,23 @@
 GitHub Notes: 
 
+===========
+cmd commands
+
 cd.. -> up a directory
 cd -> change directory
 
 dir -> list current directory
 
+===========
+Git commands
 
+git clone "url"  -> copies cloud repository to current directory
+
+git status -> lists conflicts between directory and cloud directory
+
+git add "filename" -> adds changes to be committed
+
+git commit -m ""notes""  -> commits files to be uploadedand changes made (not synced yet)
+
+git push -> syncs everything to the cloud
 
